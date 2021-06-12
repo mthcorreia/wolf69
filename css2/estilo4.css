@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 2560px) {
+    div {
+        width: 24%;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #img_noticia {
+        width: 256px;
+        height: 212px;
+    }
+    #texto {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1920px) {
+    div {
+        width: 24%;
+        padding-top: 20px;
+    }
+}
+
+#back0{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size: 100px;
+
+}
+
+#back1{
+    background-color:white;
+    width: 90%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#batata{
+    background-color: blueviolet;
+
+}
+
+#tabela{
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+#tableBase2{
+    text-align: center;
+    width: 20%;
+    height: 100%;
+}
+
+#tableBase3{
+    border-style: solid;
+    text-align: center;
+}
+#sub{
+    font-weight: bold;
+    width: 50%;
+    text-align: center;
+}
+#sub4{
+    background-color: rgb(192, 188, 188);
+}
+#sub3{
+    background-color: white;
+}
+
+#buttonLog{
+    background-color:white;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+    box-shadow: 10px 10px 10px  black;
+}
